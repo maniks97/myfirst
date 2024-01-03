@@ -1,0 +1,35 @@
+
+.preference-bar {
+    display: flex;
+    flex-direction: row;
+
+    position: fixed;
+    left: 96px;
+    right: 24px;
+    top: 56px;
+
+    background-color: white;
+    height: 50px;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 5px;
+    z-index: 90;
+}
+.choice {
+    display: flex;
+    color: black;
+    font-family: Roboto,Arial;
+    font-weight: 500;
+    background-color: rgb(240, 240, 240);
+    height: 29px;
+    border: none;
+    border-radius: 7px;
+    padding-top: 5px;
+    padding-bottom: 20px;
+    padding-right: 8px;
+    padding-left: 8px;
+    text-align: center;
+    margin-right: 4px;
+    white-space: nowrap;
+    
+}

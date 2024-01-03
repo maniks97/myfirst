@@ -1,0 +1,15 @@
+p{
+    font-family: Roboto, Arial;
+    margin-top: 0;
+    margin-bottom: 0;
+}
+
+body {
+    /*this font style will apply to all the characters in the body section*/
+    font-family: Roboto, Arial;
+    margin: 0;
+    padding-top: 110px; /*It was 80px i changed to 110px*/
+    padding-left: 96px;
+    padding-right: 24px;
+    background-color: white;
+}
